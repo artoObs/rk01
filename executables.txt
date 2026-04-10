@@ -1,0 +1,4 @@
+build/test/options_test
+build/test/link_test
+build/test/options_test_noregex
+build/src/example
